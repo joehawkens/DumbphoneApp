@@ -14,6 +14,7 @@ An independent project I did for a class. This is a "launcher" app. It replaces 
 
 
 <img align="left" width="200" height="500" src="https://github.com/joehawkens/DumbphoneApp/blob/main/images/logo_1.PNG">
+<img align="left" width="300" height="500" src="https://github.com/joehawkens/DumbphoneApp/blob/main/images/photo_1.PNG">
 
 ![Vanish App Logo](https://github.com/joehawkens/DumbphoneApp/blob/main/images/logo_1.PNG)
 ![Vanish App Logo](https://github.com/joehawkens/DumbphoneApp/blob/main/images/photo_1.PNG)
