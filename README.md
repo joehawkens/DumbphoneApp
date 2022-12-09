@@ -12,4 +12,8 @@ An independent project I did for a class. This is a "launcher" app. It replaces 
 
 ## Images:
 
+![Vanish App Logo](https://github.com/joehawkens/DumbphoneApp/blob/main/images/logo_1.PNG)
+![Vanish App Logo](https://github.com/joehawkens/DumbphoneApp/blob/main/images/photo_1.PNG)
+
+
 
