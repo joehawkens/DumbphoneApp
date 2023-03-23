@@ -6,7 +6,7 @@ An independent project I did for a class. This is a "launcher" app. It replaces 
 
 1. Download APK file onto your Android device located [here](https://github.com/joehawkens/DumbphoneApp/tree/main/Versions).
 2. Run APK file on your Android device.
-3. This will install the program and everything should take care of itself 
+3. This will install the program and the app icon will appear on your home screen.
 4. **Note: You need to have Spotify and Google Maps downloaded to your phone before you can use them in the app.**
 
 
